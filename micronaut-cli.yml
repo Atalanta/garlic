@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: com.github.atalanta
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, docker, file-watch, file-watch-osx, graalvm, gradle, http-client, java, junit, logback, picocli, picocli-java-application, picocli-junit, readme, shade, yaml]
